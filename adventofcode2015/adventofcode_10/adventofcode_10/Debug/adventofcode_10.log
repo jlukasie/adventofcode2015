@@ -1,0 +1,10 @@
+﻿Build started 12/13/2015 8:48:23 PM.
+     1>Project "c:\Users\afroviking\code\adventofcode_10\adventofcode_10\adventofcode_10.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\afroviking\code\adventofcode_10\Debug\adventofcode_10.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\afroviking\code\adventofcode_10\Debug\adventofcode_10.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\afroviking\code\adventofcode_10\Debug\adventofcode_10.lib" /MACHINE:X86 Debug\main.obj
+         adventofcode_10.vcxproj -> c:\users\afroviking\code\adventofcode_10\Debug\adventofcode_10.exe
+     1>Done Building Project "c:\Users\afroviking\code\adventofcode_10\adventofcode_10\adventofcode_10.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.20
